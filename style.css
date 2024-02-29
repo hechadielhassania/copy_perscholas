@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, b {
     padding: 20px 40px;
     width: 35%;
     position: absolute;
-    bottom: -275px;
+    bottom: -150px;
     left: 60px;
 }
 
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, b {
     padding: 20px 40px;
     width: 35%;
     position: absolute;
-    bottom: -275px;
+    bottom: -150px;
     right: 60px;
 }
 .lernertitle{
